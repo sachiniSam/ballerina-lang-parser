@@ -14,7 +14,7 @@ Token record {
     string? whiteSpace;
 }
 ```
-
+  
 Grammar supported by the current implementation is given below.
 
 **Parser Grammar**
