@@ -3,7 +3,7 @@
 The parser is implemented following the LL(K) recursive Descent parsing pattern. This pattern analyses the syntactic structure using k>1 lookahead tokens.
 
 **Token Structure**
-```json
+```
 Token record {
     int tokenType;
     string text;
